@@ -1,8 +1,29 @@
-## Welcome to Security Cam Support Page.
+## Welcome to Security Robot Support Page.
+### Your Security Cam Solution For Your Old iPhones, iPads and iPods.
 
-Security Robot is a Security Cam for your old iPhone, iPod or iPad.  
 
-No need for WiFi / Bluetooth,  Internet, or a third party cloud service.  And No monthly fees.
+```markdown
+
+# Requirements
+
+- Any iPhone, iPad or iPod running iOS 8 and above.
+- Any device with a camera support.
+
+```
+
+```markdown
+
+# Features
+
+- No monthly fees.
+- No internet access required.
+- No Wi-Fi or Bluetooth required.
+- No third party cloud service required.
+- No attendance required.
+
+```
+
+### No Monthly
 
 ===
 Security Robot is a Security Cam for your old iPhone or iPad.  
