@@ -45,8 +45,6 @@ Your Security Cam Solution For Your Old iPhones, iPads and iPods.
 - Copy video files via iTunes File Sharing.
 - And More!
 
-### Instruction
-
 ### Start/Stop Recording
 - Tap  big circle button at bottom to start recording.  
 - Toggle it again to stop recording.
