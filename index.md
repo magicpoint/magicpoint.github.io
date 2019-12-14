@@ -1,64 +1,37 @@
-## Welcome to Security Robot Support Page.
-### Your Security Cam Solution For Your Old iPhones, iPads and iPods.
+### Welcome to Security Robot Support Page.
+Your Security Cam Solution For Your Old iPhones, iPads and iPods.
 
+- No Monthly Subscription Fees.
+- No Internet Access Required.
+- No Wi-Fi or Bluetooth Required.
+- No Third Party Cloud Storage Required.
+- No attendance required.
 
-# Features
+### Requirements
 
-### No Monthly Subscription Fees.
-### No Internet Access Required.
-### No Wi-Fi or Bluetooth Required.
-### No Third Party Cloud Storage Required.
-### No attendance required.
-
-
-#### Requirements
-
-- Any iPhone, iPad or iPod running iOS 8 and above.
+- Only requires iOS 8 and above.
+- Any iPhone, iPad or iPod, dating back 2008 
 - Any device with a camera support.
 
 
-
-
-===
-Security Robot is a Security Cam for your old iPhone or iPad.  
+### Features
 
 - No need for a third party cloud service to store your videos.
-
 - All recorded videos are stored in your device only.
-
 - Only you can access videos with the Guided Access enabled.
-
 - Hacker proof.  No one can break into your videos, unless WiFi or Bluetooth is ON. 
 
-Tips:
+### Tips
 
 - Records up to about 2 hours on a full charge.  
-
-- To record a full week or longer, plug in the device. It records up to a week or longer, without any attendance. 
-
+- To record a full week or longer, plug in the device. 
+- It records up to a week or longer, without any attendance. 
 - All recorded videos are watermarked with timestamps.
-
 - To export a recorded video, use the Photos app to share the video in Air Drop with your Mac or PC.
-
 - Please turn OFF Bluetooth and Wifi, while using this app to be protected from the wireless hacking.
-
 - Please enable "Guided Access" to lock the device to Security App with a password.  This ensures that nobody else can deactivate the app and access or delete videos.
 
-
-
-===
-
-Caught these intruders in action!  The screenshot shows a recorded scene of our hotel room, captured by this app.  We weren't there, when this happened, and we didn't authorized them.
-
-Find out what happens to your hotel room, when you are gone!
-
-You can use it for your hotel room, your dorm room, your office, your house, your store or anywhere else, while you are not there.
-
-How long can it record?  
-
-It can record a full day, a few days, a full week or even a full month, or more!*
-
-Features
+### Advanced Features
 
 - Records more than an entire weekend, a week or a month!  
 - Can record more than 1000 hours straight.
@@ -72,20 +45,13 @@ Features
 - Do you need to copy a video footage?  Copy video files via iTunes File Sharing.
 - and more!
 
-INSTRUCTION
+### Instruction
 
 - Start/Stop Recording : tap a big circle button at bottom to start recording.  Toggle it again to stop recording.
-
 - Copy Video files : Use iTunes File Sharing to copy the recorded video files.  Under File Sharing in iTunes, tap the app and select all video files and drag-and-drop them to your desktop on a PC or a  Mac.
-
 - Focusing Camera :  tap anywhere on the screen to re-focus the camera.  This auto-balances the camera focus, the contrast and white-balancing.
-
 - Night recording:  turn the flash on to enable the night recording.
-
-* The record capacity is determined by the free storage space available on your device.  Please try to free up storage space by deleting unused apps, photos, music or videos, before using this app.
-
-
-
+- The record capacity is determined by the free storage space available on your device.  Please try to free up storage space by deleting unused apps, photos, music or videos, before using this app.
 
 
 
