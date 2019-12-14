@@ -34,45 +34,43 @@ Your Security Cam Solution For Your Old iPhones, iPads and iPods.
 
 ### Advanced Features
 
-- Records more than an entire weekend, a week or a month!  
 - Can record more than 1000 hours straight.
 - Records anything, unattended.  
-- Set it to record and forget it.  It will continuously record until you stop it.
+- It will continuously record until you stop it.
 - Record your house, your office, your hotel room, your dorm, your shop, or anywhere, while you are gone! 
 - Protected from Wi-Fi hacking.  WPA2 is now breakable by hackers.
-- Use old iPhone, iPad or iPod!  Supports iOS 7 and above!
 - Night Recording with Flash enabled.
-- Watch video files directly from the app.  Tap "i" button to access all video recordings.
-- Do you need to copy a video footage?  Copy video files via iTunes File Sharing.
-- and more!
+- Watch video files directly from the app.  
+- Tap "i" button to access all video recordings.
+- Copy video files via iTunes File Sharing.
+- And More!
 
 ### Instruction
 
-#### Start/Stop Recording
-- Tap a big circle button at bottom to start recording.  
+### Start/Stop Recording
+- Tap  big circle button at bottom to start recording.  
 - Toggle it again to stop recording.
 
-#### Copy Video files
+### Copy Video files
 - Use iTunes File Sharing to copy the recorded video files.  
 - Under File Sharing in iTunes, tap the app and select all video files.
 - Drag-and-drop them to your desktop on a PC or a  Mac.
 
-#### Focusing Camera 
+### Focusing Camera 
 - Tap anywhere on the screen to re-focus the camera.  
 - This auto-balances the camera focus, the contrast and white-balancing.
 
-#### Night recording
+### Night recording
 - Turn the flash on to enable the night recording.
 - The record capacity is determined by the free storage space available on your device.  
 - Please try to free up storage space by deleting unused apps, photos, music or videos.
 - Please free up storage space before using this app.
 
-##### Support Email
+### Support Email
 security-robot@magicpoint.info
 
 
-##### Misc
-
+### Misc
 You can use the [editor on GitHub](https://github.com/magicpoint/magicpoint.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
