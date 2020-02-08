@@ -23,7 +23,7 @@ Your Security Cam Solution For Your Old iPhones, iPads and iPods.
 
 ### Tips
 
-- Records up to about 2 hours on a full charge.  
+- Records up to about 12 hours on a full charge.  
 - To record a full week or longer, plug in the device. 
 - It records up to a week or longer, without any attendance. 
 - All recorded videos are watermarked with timestamps.
@@ -34,7 +34,7 @@ Your Security Cam Solution For Your Old iPhones, iPads and iPods.
 
 ### Advanced Features
 
-- Can record more than 1000 hours straight.
+- Can record more than 2000 hours straight.
 - Records anything, unattended.  
 - It will continuously record until you stop it.
 - Record your house, your office, your hotel room, your dorm, your shop, or anywhere, while you are gone! 
