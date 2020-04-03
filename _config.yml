@@ -1,9 +1,5 @@
 # Site
-<<<<<<< HEAD
 name: 'Magicpoint'
-=======
-name: 'Magic Point'
->>>>>>> 438c986f9f6481a22cf9f9a58a7b02d03185ada1
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
